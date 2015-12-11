@@ -7,3 +7,6 @@ cccccc
 ffffff
 
 hhhhhhh
+
+
+creating a new branch is quick & simple
