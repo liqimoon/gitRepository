@@ -1,6 +1,0 @@
-# gitskills
-
-ssssss
-
-
-aaaaa
